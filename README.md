@@ -1,6 +1,6 @@
 # Project ETH-ARG swap (deployed in Kovan)
 
-## 2. Main features
+## 2. Main featuresd
 
 - Two smart contracts written in Solidity:
 
